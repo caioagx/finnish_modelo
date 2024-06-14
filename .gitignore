@@ -9,3 +9,7 @@ txsUnique_1_2_balanced_dataset.csv
 /Lib/
 /Library/
 /share/
+
+./model/model.safetensors
+./model_weights.pth
+./model/pytorch_model.bin
